@@ -46,9 +46,7 @@ after that you have to write :
 
 After that the program will ask you to choose the directory name for output file and the name of the next file to be processed , for our protein test it will be for exemple ../1huf.pdb
 
-Remark  : i already added a file generated thanks to HBPLUS 
-
-for our protein test it will be 1huf.hb2
+Remark  : i already added a file generated thanks to HBPLUS for our protein test it will be 1huf.hb2
 
 
 
