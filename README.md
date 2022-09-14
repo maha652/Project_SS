@@ -3,7 +3,7 @@ Projet_court_structure_secondaire
 
 Setup you environment :
 
-git clone git@github.com:mahagraa/Project_SS.git
+git clone git@github.com:maha652/Project_SS.git
 
 Move to the new directory 
 
